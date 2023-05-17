@@ -26,8 +26,3 @@ app.post("/", function(req, res){
 app.listen(3002, function(){
     console.log("Server is running on port 3002");
 });
-//API Key
-//7e6403add1ece0d5dbb369352e33d876-us1
-
-//List id
-//4f4462f411
